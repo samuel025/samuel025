@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ... I am an introvert.
 
 # Hi there, I'm Samuel 👋 
-I am Samuel from Nigeria, I am a backend enginner moving to fullstack. I work with technologies like Django, React, Python. I really enjoy learning about new technologies like I am currently looking forward to go into web3. 
+I am Samuel from Nigeria, I am a backend developer moving to fullstack. I work with technologies like Django, React, Python. I really enjoy learning about new technologies like I am currently looking forward to go into web3. 
 
 # Connect with me
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
