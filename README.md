@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on ... ideas
 - 🌱 I’m currently learning ... ReactJs
 - 👯 I’m looking to collaborate on ... Django, Python, React
 - 🤔 I’m looking for help with ... React
