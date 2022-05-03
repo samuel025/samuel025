@@ -33,7 +33,6 @@
 
 
 <img align="left" alt="samuel025's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samuel025&show_icons=true&hide_border=false" />
-[Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel025)
 
 [website]: https://sam-uel.herokuapp.com/
 [twitter]: https://twitter.com/samwell_2
