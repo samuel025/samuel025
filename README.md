@@ -11,6 +11,8 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am an introvert.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=samuel025&left_color=green&right_color=red)
+
 # Hi there, I'm Samuel 👋 
 I am Samuel from Nigeria, I am a backend developer moving to fullstack. I work with technologies like Django, React, Python. I really enjoy learning about new technologies like I am currently looking forward to go into web3. 
 
