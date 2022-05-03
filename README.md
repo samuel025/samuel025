@@ -1,8 +1,5 @@
 ### Here is what I am working on! 👋
 
-<!--
-**samuel025/samuel025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[twitter](https://twitter.com/samwell_2)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am an introvert.
--->
+
