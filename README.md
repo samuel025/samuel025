@@ -33,7 +33,7 @@ I am Samuel from Nigeria, I am a backend developer moving to fullstack. I work w
 <br />
 
 
-<img align="left" alt="samuel025's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samuel025&show_icons=true&hide_border=false" />
+<!-- <img align="left" alt="samuel025's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samuel025&show_icons=true&hide_border=false" /> -->
 
 [website]: https://sam-uel.herokuapp.com/
 [twitter]: https://twitter.com/samwell_2
