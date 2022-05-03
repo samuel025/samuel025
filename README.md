@@ -13,6 +13,10 @@
 
 # Hi there, I'm Samuel 👋 
 
+# Connect with me
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
@@ -21,7 +25,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <br />
 <br />
 
