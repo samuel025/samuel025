@@ -2,14 +2,12 @@
 
 
 - 🔭 I’m currently working on ... ideas
-- 🌱 I’m currently learning ... ReactJs
 - 👯 I’m looking to collaborate on ... Django, Python, React
 - 🤔 I’m looking for help with ... React
 - 💬 Ask me about ... anything at all
 - 🥅 2022 Goals: Learn more about web3
-- 📫 How to reach me: ...[Twitter](https://twitter.com/samwell_2) or [my portfolio](https://sam-uel.herokuapp.com/)
+- 📫 How to reach me: ...[Twitter](https://twitter.com/samwell_2) or [my portfolio](https://samuel025.github.io/Site/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am an introvert.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samuel025&left_color=green&right_color=red)
 
@@ -35,6 +33,6 @@ I am Samuel from Nigeria, I am a backend developer moving to fullstack. I work w
 
 <!-- <img align="left" alt="samuel025's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samuel025&show_icons=true&hide_border=false" /> -->
 
-[website]: https://sam-uel.herokuapp.com/
+[website]: https://samuel025.github.io/Site/
 [twitter]: https://twitter.com/samwell_2
 <!-- [linkedin]: https://linkedin.com/in/codeSTACKr -->
