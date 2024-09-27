@@ -1,9 +1,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Samwell_2?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/samwell_2)
 
 
-- 🔭 I’m currently working on ... ideas
 - 👯 I’m looking to collaborate on ... Django, Python, React
-- 🤔 I’m looking for help with ... React
 - 💬 Ask me about ... anything at all
 - 🥅 2022 Goals: Learn more about web3
 - 📫 How to reach me: ...[Twitter](https://twitter.com/samwell_2) or [my portfolio](https://samuel025.github.io/Site/)
@@ -12,7 +10,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samuel025&left_color=green&right_color=red)
 
 # Hi there, I'm Samuel 👋 
-I am Samuel from Nigeria, I am a backend developer moving to fullstack. I work with technologies like Django, React, Python. I really enjoy learning about new technologies like I am currently looking forward to go into web3. 
+I am Samuel, I am a backend developer moving to fullstack. I work with technologies like Django, React, Flutter, Python. I really enjoy learning about new technologies like I am currently looking forward to go into web3. 
 
 # Connect with me
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
